@@ -15,11 +15,11 @@ This Console Management System is a robust, command-line interface application d
 
 Below are some screenshots from the Console Management System, showcasing its features and user interface:
 
-![Screenshot 1](shots/shot-1.png)
-![Screenshot 1](shots/shot-2.png)
-![Screenshot 1](shots/shot-3.png)
-![Screenshot 1](shots/shot-4.png)
-![Screenshot 1](shots/shot-5.png)
+![Screenshot 1](shots/shot-1.jpg)
+![Screenshot 1](shots/shot-2.jpg)
+![Screenshot 1](shots/shot-3.jpg)
+![Screenshot 1](shots/shot-4.jpg)
+![Screenshot 1](shots/shot-5.jpg)
 
 
 ## Getting Started
